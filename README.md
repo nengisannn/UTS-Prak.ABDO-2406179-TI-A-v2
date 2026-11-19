@@ -1,0 +1,4 @@
+# NAMA    : NENG ISAN LOPIANI 
+# BAGIAN  : Ganjil (A)
+# NIM     : 2406179
+# KELAS   : INFORMATIKA-B
